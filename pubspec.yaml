@@ -33,6 +33,9 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   url_launcher: ^5.4.10
+  velocity_x: ^0.3.4
+  google_fonts: ^1.1.0
+  flutter_icons: ^1.1.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

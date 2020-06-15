@@ -4,14 +4,39 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f91f40a-53a2-401d-9c73-77acb904ffb6" name="Default Changelist" comment="" />
+    <list default="true" id="8f91f40a-53a2-401d-9c73-77acb904ffb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/footer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/header.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/middle.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="4200020e619d247d" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="Z:\Package\Flutter Src\portfolioWeb\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1dMBhYs58AJRwuZZambOhoeBljm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,12 +45,13 @@
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\Package\Flutter Src\portfolioWeb\lib" />
       <recent name="Z:\Package\Flutter Src\portfolioWeb\assets" />
     </key>
   </component>
@@ -47,29 +73,29 @@
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="232" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.34.1920.1046@0.34.1920.1046" timestamp="1592227805835" />
-    <state width="1877" height="353" key="GridCell.Tab.0.bottom" timestamp="1592239620163">
+    <state width="1877" height="160" key="GridCell.Tab.0.bottom" timestamp="1592254287380">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1877" height="353" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1592239620163" />
-    <state width="1877" height="353" key="GridCell.Tab.0.center" timestamp="1592239620163">
+    <state width="1877" height="160" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1592254287380" />
+    <state width="1877" height="160" key="GridCell.Tab.0.center" timestamp="1592254287379">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1877" height="353" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1592239620163" />
-    <state width="1877" height="353" key="GridCell.Tab.0.left" timestamp="1592239620163">
+    <state width="1877" height="160" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1592254287379" />
+    <state width="1877" height="160" key="GridCell.Tab.0.left" timestamp="1592254287379">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1877" height="353" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1592239620163" />
-    <state width="1877" height="353" key="GridCell.Tab.0.right" timestamp="1592239620163">
+    <state width="1877" height="160" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1592254287379" />
+    <state width="1877" height="160" key="GridCell.Tab.0.right" timestamp="1592254287380">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1877" height="353" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1592239620163" />
-    <state x="461" y="199" key="SettingsEditor" timestamp="1592236449479">
+    <state width="1877" height="160" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1592254287380" />
+    <state x="461" y="199" key="SettingsEditor" timestamp="1592252459196">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="461" y="199" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1592236449479" />
-    <state width="501" height="68" key="javadoc.popup.new" timestamp="1592236505831">
+    <state x="461" y="199" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1592252459196" />
+    <state width="501" height="68" key="javadoc.popup.new" timestamp="1592254238747">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="501" height="68" key="javadoc.popup.new/0.34.1920.1046@0.34.1920.1046" timestamp="1592236505831" />
+    <state width="501" height="68" key="javadoc.popup.new/0.34.1920.1046@0.34.1920.1046" timestamp="1592254238747" />
   </component>
 </project>
