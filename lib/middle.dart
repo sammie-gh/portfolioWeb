@@ -9,7 +9,7 @@ class MiddleScreen extends StatelessWidget {
       child: Flex(
           direction: context.isMobile ? Axis.vertical : Axis.horizontal,
           children: [
-            "All Creative works,\n"
+            "Creative works,\n"
                 .richText
                 .withTextSpanChildren(
                     ["Selected projects.".textSpan.yellow400.make()])

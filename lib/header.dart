@@ -9,7 +9,7 @@ import 'colors.dart';
 class HeaderScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final nameWidget = "Evans\Drah."
+    final nameWidget = "Evans\nDrah"
         .text
         .white
         .xl6
@@ -18,6 +18,7 @@ class HeaderScreen extends StatelessWidget {
         .bold
         .make()
         .shimmer();
+        
     return SafeArea(
       child: VxBox(
               child: VStack([
@@ -79,7 +80,7 @@ class IntroductionWidget extends StatelessWidget {
         [
           " - Introduction".text.gray500.widest.sm.make(),
           10.heightBox,
-          "@googledevexpert for Flutter, Firebase, Dart & Web.\nPublic Speaker, Blogger, Entrepreneur & YouTuber.\nFounder of MTechViral."
+          "Android Developer (Java Native), Firebase, Dart & Web.\nStrong information technology professional, Entrepreneur .\nFounder of SunBurn."
               .text
               .white
               .xl3
@@ -130,12 +131,12 @@ class PictureWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Transform(
-      alignment: Alignment.topRight, //center
+      alignment: Alignment.center, //center
       origin: Offset(context.percentWidth * 2, 0),
       transform: Matrix4.rotationY(pi),
       child: Image.asset(
         "assets/evans.png",
-        fit: BoxFit.cover,
+        fit: BoxFit.contain,
         height: context.percentHeight * 60,
       ),
     );
@@ -149,9 +150,11 @@ class SocialAccounts extends StatelessWidget {
       Icon(
         AntDesign.twitter,
         color: Colors.white,
-      ).mdClick(() {
+      )
+      .mdClick(() {
         launch("https://twitter.com/SJKOED");
-      }).make(),
+      })
+      .make(),
       20.widthBox,
       Icon(
         AntDesign.facebook_square,
@@ -160,13 +163,13 @@ class SocialAccounts extends StatelessWidget {
         launch("https://web.facebook.com/Sammie.ev/");
       }).make(),
       20.widthBox,
-      Icon(
-        AntDesign.youtube,
-        color: Colors.white,
-      ).mdClick(() {
-//        launch("https://youtube.com/mtechviral");
-      }).make(),
-      20.widthBox,
+//       Icon(
+//         AntDesign.youtube,
+//         color: Colors.white,
+//       ).mdClick(() {
+// //        launch("https://youtube.com/mtechviral");
+//       }).make(),
+      // 20.widthBox,
       Icon(
         AntDesign.github,
         color: Colors.white,

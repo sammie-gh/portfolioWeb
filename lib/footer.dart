@@ -17,7 +17,19 @@ class FooterScreen extends StatelessWidget {
               10.heightBox,
               "evansdrah@gmail.com"
                   .text
-                  .color(Coolors.accentColor)
+                .color(Colors.white)
+                  .semiBold
+                  .make()
+                  .box
+                  .border(color: Coolors.accentColor)
+                  .p16
+                  .rounded
+                  .make(),
+
+                  //mobile
+                    "+233544184738"
+                  .text
+               .color(Colors.white)
                   .semiBold
                   .make()
                   .box
@@ -34,7 +46,7 @@ class FooterScreen extends StatelessWidget {
               10.widthBox,
               "evansdrah@gmail.com"
                   .text
-                  .color(Coolors.accentColor)
+                  .color(Colors.white)
                   .semiBold
                   .make()
                   .box
@@ -42,6 +54,22 @@ class FooterScreen extends StatelessWidget {
                   .p16
                   .rounded
                   .make(),
+
+                  //mobile
+                  
+                    "+233544184738"
+                  .text
+                  .color(Colors.white)
+                  .semiBold
+                  .make()
+                  .box
+                  .border(color: Coolors.accentColor)
+                  .p16
+                  .rounded
+                  .make()
+                     
+          
+            
             ],
             alignment: MainAxisAlignment.spaceAround,
           ).w(context.safePercentWidth * 70).scale150().p16(),

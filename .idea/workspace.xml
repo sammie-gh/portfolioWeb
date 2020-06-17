@@ -4,20 +4,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f91f40a-53a2-401d-9c73-77acb904ffb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/colors.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/footer.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/header.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/home.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/middle.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="8f91f40a-53a2-401d-9c73-77acb904ffb6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,22 +60,22 @@
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="232" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.34.1920.1046@0.34.1920.1046" timestamp="1592227805835" />
-    <state width="1877" height="160" key="GridCell.Tab.0.bottom" timestamp="1592254287380">
+    <state width="1877" height="160" key="GridCell.Tab.0.bottom" timestamp="1592254383701">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1877" height="160" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1592254287380" />
-    <state width="1877" height="160" key="GridCell.Tab.0.center" timestamp="1592254287379">
+    <state width="1877" height="160" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1592254383701" />
+    <state width="1877" height="160" key="GridCell.Tab.0.center" timestamp="1592254383701">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1877" height="160" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1592254287379" />
-    <state width="1877" height="160" key="GridCell.Tab.0.left" timestamp="1592254287379">
+    <state width="1877" height="160" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1592254383701" />
+    <state width="1877" height="160" key="GridCell.Tab.0.left" timestamp="1592254383701">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1877" height="160" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1592254287379" />
-    <state width="1877" height="160" key="GridCell.Tab.0.right" timestamp="1592254287380">
+    <state width="1877" height="160" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1592254383701" />
+    <state width="1877" height="160" key="GridCell.Tab.0.right" timestamp="1592254383701">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1877" height="160" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1592254287380" />
+    <state width="1877" height="160" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1592254383701" />
     <state x="461" y="199" key="SettingsEditor" timestamp="1592252459196">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
