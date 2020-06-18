@@ -163,13 +163,13 @@ class SocialAccounts extends StatelessWidget {
         launch("https://web.facebook.com/Sammie.ev/");
       }).make(),
       20.widthBox,
-//       Icon(
-//         AntDesign.youtube,
-//         color: Colors.white,
-//       ).mdClick(() {
-// //        launch("https://youtube.com/mtechviral");
-//       }).make(),
-      // 20.widthBox,
+      Icon(
+        AntDesign.linkedin_square,
+        color: Colors.white,
+      ).mdClick(() {
+  launch("https://www.linkedin.com/in/drah-evan");
+      }).make(),
+      20.widthBox,
       Icon(
         AntDesign.github,
         color: Colors.white,
